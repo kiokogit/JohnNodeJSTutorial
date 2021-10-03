@@ -1,4 +1,4 @@
 # JohnNodeJSTutorial
-Nodejs and ExpressJs tutorial by John Shmial
+Nodejs and ExpressJs
 
-These files make up a tutorial for several Javascript concepts; including functions, node js, express etc. 
+Files for several Javascript concepts; including functions, node js, express etc. 
